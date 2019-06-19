@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+h2, h1 {
+  color: white;
+  font-family: verdana;
+}
+fieldset{
+  position: absolute;
+  top: 195px;
+  left: 580px;
+  width: 400px;
+  height: 300px;
+}
+.h1{
+ position: absolute;
+ top: 40px;
+ left: 190px;
+ }
+ .b1{
+  position: absolute;
+  width: 290px;
+  height: 25px;
+  top: 110px;
+  left: 65px;
+ }
+ .h2{
+  position: absolute;
+  top: 170px;
+  left: 184px;
+ }
+ .b2{
+  position: absolute;
+  width: 290px;
+  height: 25px;
+  top: 161px;
+  left: 65px;
+ }
+ .cont{
+ position: absolute;
+ font-family: Verdana;
+ width: 270px;
+ height: 30px;
+ left: 75px;
+ top: 210px;
+ background-color: white;
+ }

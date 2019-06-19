@@ -1,0 +1,167 @@
+
+.um{
+	background-color: red;
+	width: 1348px;
+  height: 138px;
+  position: center;
+}
+
+h1, h2, h4  { position: relative;
+ top: 28.5px; left: 15px;
+ color: white;
+ font-family: verdana;
+  }
+  h4{
+  	position: relative;
+  	font-size: 18px;
+  	top: 0px;
+  }
+  p  { position: relative;
+ top: 0px; left: 15px;
+ color: white;
+ font-family: verdana;
+  }
+  button{
+  	position: relative;
+  	height: 35px;
+  	left: 250px;
+  	top: -45px;
+  	background-color: white;
+  	color: red;
+  	font-family: verdana;
+  	border: none;
+  }
+  .in{
+  	position: relative;
+  	top: -45px; left: 250px;
+  	width: 994px;
+  	height: 33px;
+    border: none;
+  }
+  hr{
+  	width: 220px;
+  	position: relative;
+  	top: 15px;
+  	right: 567px;
+    height: 3px;
+    background-color: white;
+    border: none;
+  }
+  .hrum{
+  	width: 220px;
+  	position: relative;
+  	top: -10px;
+  	right: 567px;
+  	background-color: white;
+  	border: none;
+  }
+  .dois{
+    background-color: red;
+	  width: 399px;
+    height: 700px;
+    border-radius: 10px;
+  }
+  .ps4{
+  	position: relative;
+  	width: 200px;
+  	height: 240px;
+  	left: 95px;
+  	top: 0px;
+  	border: 1px solid ;
+  }
+  .h2{
+  	position: relative;
+  	top: 10px;
+  	left: 90px;
+  	font-size: 32px;
+  }
+  .h4{
+    position: relative;
+    top: -29px;
+    left: 110px;
+    font-size: 32px;
+  }
+  .hq{
+    position: relative;
+    top: -29px;
+    left: 60px;
+    font-size: 32px;
+  }
+
+ .tres{
+  position: absolute;
+  background-color: red;
+    width:493px;
+    height: 700px;
+    border-radius: 10px;
+    top: 186px;
+    left: 410px;
+ }
+.put{
+  position: absolute;
+  width: 450px;
+  height: 25px;
+  left: 15px;
+}
+.email{
+    position: absolute;
+  width: 400px;
+  height: 25px;
+  left: 15px;
+}
+.si{
+  position: absolute;
+  font-size: 10px;
+  top: 650px;
+  left: 135px;
+}
+.check{
+  position: absolute;
+  top: 661px;
+  left: 115px;
+}
+.quatro{
+   position: absolute;
+  background-color: red;
+    width: 450px;
+    height: 650px;
+    border-radius: 10px;
+    top: 186px;
+    left: 906px;
+}
+.putin{
+  position: absolute;
+  width: 410px;
+  height: 25px;
+  left: 12px;
+}
+.boot{
+
+  position: absolute;
+  top: 210px;
+  left: 12px;
+  border: 1px solid black;
+}
+.sel{
+  position: absolute;
+  top: 211px;
+  left: 85px;
+  width: 194px;
+  height: 33px;
+  border: none;
+}
+.ult{
+ position: absolute;
+ height: 42px;
+ width: 448px;
+ top: 656px;
+ background-color: red;
+ font-color:white;
+ left: 2px;
+ border-radius: 5px;
+}
+.ped{
+  position: absolute;
+  top: -15px;
+  left: 128px;
+}
